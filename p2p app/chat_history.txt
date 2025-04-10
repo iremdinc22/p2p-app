@@ -1,0 +1,15 @@
+Connected to 192.168.1.177:6001 as nil
+Secure chat initiated. Shared key: 63a760762d21a6b7b217fd6375f013a73fbab2999bbc6e6d5a5aa67f1ce2bf9c
+nil: selam ibo (encrypted: 2ae96fda59dd2c306a)
+ibo: ve as canım (hex: d263acd7990ce3c0dc86ae33)
+nil: iyiyim çok şükür sen (encrypted: 1b593a00932b765d117ab64723154431c0faeaeab986d2cd)
+ibo: nasılsın iyi misin (hex: 8fe1f42849c1a1e81b95e887f66cbf150a7b551e)
+nil: ben de iyiyim teşekkürler (encrypted: 735935e8db03a3e9ae12dfa14cd7ab305410b9fa41273e9ee401d5)
+ibo: <3 (hex: b6ca)
+Connected to 192.168.1.177:6001 as iremmm
+iremmm: ibo askoo naptın projeyi yaa
+ibo: napim askom calısıyoz esek gibi
+iremmm: ahahahahah est
+ibo: öyle öyle
+iremmm: bi se olmaz
+ibo: şaka 0
